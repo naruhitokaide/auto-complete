@@ -1,0 +1,34 @@
+# GitHub User Search
+
+This is a simple React app that allows users to search for GitHub users and displays the results in a list.
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ### git clone https://github.com/example/repo.git
+
+2. Navigate to the project directory:
+
+   ### cd github-user-search
+
+3. Install dependencies:
+   ### npm install
+
+# Usage
+
+1. Start the development server:
+   ### npm start
+2. Open your web browser and go to http://localhost:3000 to view the app.
+
+3. Type in a search query and press Enter to search for GitHub users.
+
+4. The app will display a list of up to 10 users whose usernames match the search query. The usernames will be highlighted in the list.
+
+# Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+# License
+
+This project is licensed under the MIT License.
