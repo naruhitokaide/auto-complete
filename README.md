@@ -6,11 +6,11 @@ This is a simple React app that allows users to search for GitHub users and disp
 
 1. Clone the repository to your local machine:
 
-   ### git clone https://github.com/example/repo.git
+   ### https://github.com/naruhitokaide/auto-complete.git
 
 2. Navigate to the project directory:
 
-   ### cd github-user-search
+   ### cd auto-complete
 
 3. Install dependencies:
    ### npm install
@@ -24,6 +24,12 @@ This is a simple React app that allows users to search for GitHub users and disp
 3. Type in a search query and press Enter to search for GitHub users.
 
 4. The app will display a list of up to 10 users whose usernames match the search query. The usernames will be highlighted in the list.
+
+# Running Test Case
+
+- Run this npm command
+
+   ### npm test
 
 # Contributing
 
