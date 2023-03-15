@@ -25,6 +25,12 @@ This is a simple React app that allows users to search for GitHub users and disp
 
 4. The app will display a list of up to 10 users whose usernames match the search query. The usernames will be highlighted in the list.
 
+# Running Test Case
+
+- Run this npm command
+
+   ### npm test
+
 # Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
